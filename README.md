@@ -1,7 +1,7 @@
 #BodyChecker
 
--Uses Algorithmia's Body Detection: [https://algorithmia.com/algorithms/opencv/BodyDetection].
--Uses Node.js 
+- Uses Algorithmia's Body Detection: [https://algorithmia.com/algorithms/opencv/BodyDetection].
+- Uses Node.js 
 
 to install:
 - setup algorithmia login and api key. 
